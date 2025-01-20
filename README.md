@@ -1,15 +1,12 @@
-<style>
-  img[alt="banner"] {
-    border-radius: 15px;
-    box-shadow: 0 0 25px #A12568;
-    transition: transform 0.3s ease;
-  }
-  img[alt="banner"]:hover {
-    transform: scale(1.02);
-  }
-</style>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/N3rcy/N3rcy/assets/banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/N3rcy/N3rcy/assets/banner.png">
+    <img alt="N3RCY Banner" src="https://github.com/N3rcy/N3rcy/assets/banner.png" width="800">
+  </picture>
 
-![banner](https://raw.githubusercontent.com/N3rcy/N3rcy/main/assets/banner.png)
+  <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Akira+Expanded&size=35&duration=4000&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=Digital+Creator;Code+Sorcerer;Anime+Enthusiast)](https://git.io/typing-svg) -->
+</div>
 
 <div align="center">
   ### こんにちは! ✨ 𝕀'𝕞 [Nercy]
