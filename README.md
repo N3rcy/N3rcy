@@ -9,7 +9,7 @@
   }
 </style>
 
-![banner](https://raw.githubusercontent.com/N3rcy/N3rcy/main/assets/cyber-banner.png)
+![banner](https://raw.githubusercontent.com/N3rcy/N3rcy/main/assets/banner.png)
 
 <div align="center">
   ### こんにちは! ✨ 𝕀'𝕞 [Nercy]
