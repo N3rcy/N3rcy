@@ -1,9 +1,7 @@
 <div align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/N3rcy/N3rcy/assets/banner.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/N3rcy/N3rcy/assets/banner.png">
     <img alt="N3RCY Banner" src="https://github.com/N3rcy/N3rcy/assets/banner.png" width="800">
-  </picture>
 
   <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Akira+Expanded&size=35&duration=4000&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=Digital+Creator;Code+Sorcerer;Anime+Enthusiast)](https://git.io/typing-svg) -->
 </div>
