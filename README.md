@@ -7,7 +7,7 @@
 ### 🌌 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤
 <div align="center">
 
-[![Metrics](https://github-readme-stats.vercel.app/api?username=N3rcy&theme=tokynight)](https://github.com/anuraghazra/github-readme-stats)
+[![Metrics](https://github-readme-stats.vercel.app/api?username=N3rcy&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
