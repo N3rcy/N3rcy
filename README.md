@@ -1,13 +1,3 @@
-<style>
-  img[alt="banner"] {
-    border-radius: 15px;
-    box-shadow: 0 0 25px #A12568;
-    transition: transform 0.3s ease;
-  }
-  img[alt="banner"]:hover {
-    transform: scale(1.02);
-  }
-</style>
 
 ![banner](https://github.com/N3rcy/N3rcy/blob/main/assets/banner.png?raw=true)
 
